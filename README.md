@@ -1,7 +1,7 @@
 # Template Cucumber Java 🐞
 Template de un proyecto de Cucumber con Java.
 
-## Pré-requisitos
+## Prerequisitos
 
 ✅ Java 18
 
