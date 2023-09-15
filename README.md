@@ -4,8 +4,9 @@ Template de un proyecto de Cucumber con Java.
 ## Pré-requisitos
 
 ✅ Java 18
-✅ Maven
+
 ✅ Browser Google Chrome
+
 ✅ Selenium WebDriver
 - Chormedriver
 
